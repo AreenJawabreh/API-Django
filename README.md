@@ -33,5 +33,6 @@ Example response:
     "User-Agent": "curl 1/123"
   }
 }
-![Screenshot 2024-09-02 173007](https://github.com/user-attachments/assets/7787797f-6713-4c5c-8c5c-014fdbf2d161)
+![image](https://github.com/user-attachments/assets/74f2a9d9-d1cf-4319-a888-8ae6149285af)
+
 Note: proper response headers should be set like Content-Type
